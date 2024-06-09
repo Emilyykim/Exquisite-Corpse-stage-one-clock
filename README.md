@@ -1,5 +1,5 @@
 # Exquisite Corpse in Silico
-## 🔻(https://github.com/Emilyykim) 🔻
+## 🔻Clock 🔻
 
 This README file contains:
 - Briefs for each stage of the assignment
