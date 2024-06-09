@@ -1,5 +1,5 @@
 # Exquisite Corpse in Silico
-## 🔻 *(unique title from stage 1 goes here)* 🔻
+## 🔻(https://emilyykim.github.io/Exquisite-Corpse-stage-one---one/) 🔻
 
 This README file contains:
 - Briefs for each stage of the assignment
@@ -29,14 +29,14 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 ## Comments for each stage
 
 ### 🟥 Stage 1
-- Name/Alias:
-- Github account:
-- Published webpage for stage 1:
+- Name/Alias:Seoyoung Kim
+- Github account:https://github.com/Emilyykim
+- Published webpage for stage 1: (https://emilyykim.github.io/Exquisite-Corpse-stage-one---one/)
 
 *... comments to be added here*
 
 ### 🟨 Stage 2
-- Name/Alias:
+- Name/Alias: Seoyoung Kim
 - Github account:
 - Published webpage for stage 2:
 
